@@ -2261,10 +2261,23 @@ img {
     object-fit: cover;
     justify-content: center;
     align-items: center;
-    width: 44px;
-    height: 44px;
+    width: 32px !important;
+    height: 32px !important;
+    max-width: 32px !important;
+    max-height: 32px !important;
+    min-width: 32px;
+    min-height: 32px;
     text-decoration: none;
     display: flex;
+}
+
+img.vectors-wrapper {
+    width: 32px !important;
+    height: 32px !important;
+    max-width: 32px !important;
+    max-height: 32px !important;
+    object-fit: contain;
+    display: block;
 }
 
 .vectors-wrapper.new {
