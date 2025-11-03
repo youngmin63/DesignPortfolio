@@ -2569,7 +2569,6 @@ img {
 }
 
 .div-block-5 {
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66e8aee08c6c3249f38c1cae_kyson-dana-r3-hero.avif");
     background-position: 0 0;
     background-size: auto;
     width: 100%;
@@ -3456,7 +3455,6 @@ img {
 }
 
 .img-background {
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66e8aee08c6c3249f38c1cae_kyson-dana-r3-hero.avif");
     background-position: 0 0;
     background-size: cover;
     border-radius: 20px;
@@ -3465,7 +3463,6 @@ img {
 }
 
 .div-block-43 {
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66f5e8e4b74815c0b9e2909a_kyson-dana-profile.avif");
     background-position: 50% 100%;
     background-size: cover;
     border-radius: 20px;
@@ -3601,7 +3598,6 @@ img {
 
 .block1x2 {
     background-color: #d0d3d6;
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66f64df582b32ac0078ba296_kyson-dana-clash-at-clairemont-2019-08772%20(1).jpg");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3611,7 +3607,7 @@ img {
 }
 
 .block1x2.img-alt {
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66eb20338ed50b5aee39c888_image-4.jpg"), url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66f64df582b32ac0078ba296_kyson-dana-clash-at-clairemont-2019-08772%20(1).jpg");
+    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66eb20338ed50b5aee39c888_image-4.jpg");
     background-position: 50%, 50%;
     background-repeat: repeat, no-repeat;
     background-size: cover, cover;
@@ -3620,7 +3616,6 @@ img {
 
 .block1x3 {
     background-color: #d0d3d6;
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66f64e43d9eee251befff1ee_kyson-dana-skate-san-francisco-10.jpeg");
     background-position: 100% 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3730,7 +3725,6 @@ img {
 }
 
 .intro-block-1.tall-boy {
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66f64ca9a7276b8168c71df9_220801_KYSON-DANA_EASTERN_IDAHO-03736.jpg");
     background-position: 50% 0;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3750,7 +3744,6 @@ img {
 }
 
 .intro-block-1.img-alt {
-    background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/66f6512a44fe09da3a496f5d_jj240912_Kyson-Dana-jtree2853_Final_JH.jpg");
 }
 
 .div-block-48 {
@@ -3991,7 +3984,7 @@ img {
 }
 
 .cs-bg-div.custom.new.backcound-img {
-    background-image: linear-gradient(102deg, #00000045, #0000), url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/673bb61b7e1f48e31a209d35_kyson-dana-rivian-example-img.jpg");
+    background-image: linear-gradient(102deg, #00000045, #0000);
     background-position: 0 0, 50% 100%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -4131,11 +4124,13 @@ img {
 }
 
 .logo-garden.cardiff {
+    margin: auto;
     padding-top: 61px;
     padding-bottom: 61px;
 }
 
 .logo-garden.boosted {
+    margin: auto;
     padding-top: 68px;
     padding-bottom: 68px;
 }
@@ -6419,17 +6414,6 @@ img {
     background-size: auto, auto, cover;
 }
 
-.project-hero.family {
-    background-image: linear-gradient(#0000, #0000000f), url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/682a68b6abff5ba066f4c215_kyson-dana-yosemite-202487.jpg");
-    background-position: 0 0, 50% 100%;
-    background-repeat: repeat, no-repeat;
-    background-size: auto, cover;
-    justify-content: center;
-    align-items: flex-end;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-}
 
 .hero-wrapper {
     width: 1440px;
@@ -7750,12 +7734,7 @@ img {
         background-size: auto, auto, cover;
     }
 
-    .project-hero.family {
-        background-image: linear-gradient(#0000, #00000042), url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/682a68b6abff5ba066f4c215_kyson-dana-yosemite-202487.jpg");
-        background-position: 0 0, 50% 100%;
-        background-repeat: repeat, no-repeat;
-        background-size: auto, cover;
-    }
+ 
 
     .h2 {
         color: #c9c9c9;
@@ -9887,6 +9866,7 @@ img {
     }
 
     .logo-garden.cardiff {
+        width: auto;
         max-width: 106px;
         height: 60px;
         padding-top: 0;
@@ -9894,6 +9874,7 @@ img {
     }
 
     .logo-garden.boosted {
+        width: auto;
         max-width: 120px;
         height: 130px;
         padding-top: 41px;
@@ -9984,39 +9965,11 @@ img {
         display: flex;
     }
 
-    .nav-link.work {
-        color: #fff;
-        background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/6741250017a1c540efbfeebc_work-kyson-dana.jpg");
-        background-position: 100%;
-        background-size: cover;
-        border-radius: 12px;
-        height: auto;
-        min-height: 130px;
-        font-size: 30px;
-        line-height: 20px;
-    }
 
-    .nav-link.about {
-        color: #fff;
-        background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/674125bdfc405385c6a91e6d_about-kyson-dana.jpg"), url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
-        background-position: 50%, 0 0;
-        background-size: cover, auto;
-        border-radius: 12px;
-        height: auto;
-        min-height: 130px;
-        font-size: 30px;
-    }
 
-    .nav-link.feed {
-        color: #fff;
-        background-image: url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/674126d95688e3fc8c9df09f_feed-kyson-dana.jpg"), url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
-        background-position: 30%, 0 0;
-        background-size: cover, auto;
-        border-radius: 12px;
-        height: auto;
-        min-height: 130px;
-        font-size: 30px;
-    }
+ 
+
+
 
     .nav-link-3 {
         border-radius: 12px;
@@ -10742,14 +10695,7 @@ img {
         height: 100vh;
     }
 
-    .project-hero.family {
-        background-image: linear-gradient(#0000006e, #0000006e), url("https://cdn.prod.website-files.com/66e8a8b026884c743366629c/682a68b6abff5ba066f4c215_kyson-dana-yosemite-202487.jpg");
-        background-position: 0 0, 55%;
-        background-repeat: repeat, no-repeat;
-        justify-content: center;
-        align-items: flex-end;
-        padding-bottom: 104px;
-    }
+
 
     .h2 {
         letter-spacing: -3px;
