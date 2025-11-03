@@ -3852,7 +3852,7 @@ img {
 }
 
 .cs-bg-div.custom.new.background-video.r2-launch {
-  background-image: linear-gradient(35deg, #000000a8, #0000), url("assets/taegukBackground.png");
+  background-image: linear-gradient(90deg, #000, #0000 54%), url("assets/taegukBackground.png");
   background-position: 0 0, 50%;
   background-size: auto, cover;
   margin-top: 16px;
