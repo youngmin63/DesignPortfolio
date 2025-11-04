@@ -3960,7 +3960,7 @@ img.vectors-wrapper {
 }
 
 .cs-bg-div.custom.new.background-video.trip-planner {
-    background-image: linear-gradient(90deg, #000, #0000 54%), url("assets/sgsBackground2.png");
+    background-image: linear-gradient(90deg, #000, #0000 54%), url("assets/SgsBackground3.png");
     background-position: 0 0, 100%;
     background-size: auto, cover;
 }

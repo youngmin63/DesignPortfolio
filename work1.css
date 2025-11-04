@@ -7748,7 +7748,7 @@ img.vectors-wrapper {
     }
 
     .project-hero {
-        background-image: linear-gradient(#00000045, #00000045), url("assets/sgsBackground2.png");
+        background-image: linear-gradient(90deg, #000, #0000 54%), url("assets/SgsBackground3.png");
         background-position: 0 0, 50%;
         background-size: auto, cover;
     }
